@@ -1,6 +1,8 @@
 ## 🌟 Hello, I'm Oumaima! 🌟
 
 I’m a master’s student specializing in AI and Data Science, on a mission to turn raw data into actionable insights.
+![image](https://github.com/user-attachments/assets/fd73e056-ff7b-4d06-9aab-eee63fad09c7)
+
 
 💡 **What excites me:**
 - Building intelligent systems that solve real-world problems.
@@ -72,3 +74,4 @@ November 2021 – 2023
 ## 📞 Contact
 Feel free to reach out! Let’s chat about data, AI, or anything else you’re passionate about.
     📧 Email: zerhouanioumaima@gmail.com
+
