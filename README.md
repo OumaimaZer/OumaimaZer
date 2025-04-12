@@ -46,17 +46,28 @@ I’m a master’s student specializing in AI and Data Science, on a mission to 
 - Anaconda
 - Orange
 
-## 🏢 Experience
+# 🏢 Experience
 
-### Master's Student at Moulay Ismail
-- November 2024 – Present : Data Science and AI
-  - Actively engaged in coursework focused on machine learning, deep learnin, data mining, and AI applications.
-### Bachelor's Degree at Moulay Ismail
-- November 2023 – 2024 : Data Science and AI
-  - Actively engaged in coursework focused on machine learning, deep learnin, data mining, and AI applications.
-### University degree in technology at the Higher School of technology
-- November 2021 – 2023 : Software Engineering and Computer Science
-  - Actively engaged in coursework focused on machine learning, deep learnin, data mining, and AI applications.
+## Master's Degree in Data Science and Artificial Intelligence
+### Moulay Ismail University
+November 2024 – Present
+  - Specializing in advanced topics such as machine learning, deep learning, data mining, and AI-driven applications.
+  - Actively engaged in hands-on projects and coursework to solve real-world problems using cutting-edge technologies.
+  - Exploring innovative approaches to model optimization, predictive analytics, and neural networks.
+
+## Bachelor's Degree in Data Science and Artificial Intelligence
+### Moulay Ismail University
+November 2023 – 2024
+  - Built a strong foundation in machine learning algorithms, data preprocessing, and AI frameworks like TensorFlow and PyTorch.
+  - Completed projects focused on supervised and unsupervised learning, natural language processing, and computer vision.
+  - Collaborated with peers on research-oriented assignments to analyze datasets and derive actionable insights.
+
+## University Degree in Technology: Software Engineering and Computer Science
+### Higher School of Technology
+November 2021 – 2023
+  - Gained expertise in software development, database management, and algorithm design.
+  - Developed practical skills in programming languages like Java, PHP, Javascript, and C++, with a focus on building scalable applications.
+  - Explored foundational concepts in data structures, system architecture, and software engineering principles.
  
 ## 📞 Contact
 Feel free to reach out! Let’s chat about data, AI, or anything else you’re passionate about.
