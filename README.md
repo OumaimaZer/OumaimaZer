@@ -1,7 +1,6 @@
 ## 🌟 Hello, I'm Oumaima! 🌟
 
 I’m a master’s student specializing in AI and Data Science, on a mission to turn raw data into actionable insights.
-![Profile Banner](https://github.com/user-attachments/assets/fd73e056-ff7b-4d06-9aab-eee63fad09c7)
 
 
 💡 **What excites me:**
