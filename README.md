@@ -1,3 +1,27 @@
+<style>
+  body {
+    font-family: 'Arial', sans-serif;
+    background-color: #0d1117;
+    color: #ffffff;
+  }
+  h1, h2, h3 {
+    color: #61dafb;
+  }
+  a {
+    color: #e09f3e;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .project-card {
+    background-color: #161b22;
+    padding: 10px;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+</style>
+
 ## 🌟 Hello, I'm Oumaima! 🌟
 
 I’m a master’s student specializing in AI and Data Science, on a mission to turn raw data into actionable insights.
