@@ -12,7 +12,6 @@ I’m a master’s student specializing in AI and Data Science, on a mission to 
 - Started my AI journey in 2023, diving deep into machine learning, data analysis, and Python programming.
 - Currently working on projects that blend theory and practice, from sentiment analysis to reinforcement learning.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OumaimaZer&show_icons=true&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OumaimaZer&theme=dark)
 
 ## ⚙️ Skills & Technologies
