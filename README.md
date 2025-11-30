@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?size=32&duration=3800&pause=1000&color=C9A7FE&center=true&vCenter=true&width=650&lines=Hello+I'm+Oumaima;Welcome+to+my+Profile;Creating+with+passion+%26+style)
+![Typing SVG](https://readme-typing-svg.demolab.com?size=32&duration=4000&pause=1000&color=FF8DC7&center=true&vCenter=true&width=650&lines=Hello+I'm+Oumaima;Welcome+to+my+GitHub!;Always+learning+new+things)
 
 
 I’m a master’s student specializing in AI and Data Science, on a mission to turn raw data into actionable insights.
