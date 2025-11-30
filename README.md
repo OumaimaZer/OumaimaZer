@@ -1,7 +1,6 @@
-## 🌟 Hello, I'm Oumaima! 🌟
+![Typing SVG](https://readme-typing-svg.demolab.com?size=32&duration=4000&pause=1000&color=FF8DC7&center=true&vCenter=true&width=650&lines=Hello+I'm+Oumaima;Welcome+to+my+GitHub!;Always+learning+new+things)
 
 I’m a master’s student specializing in AI and Data Science, on a mission to turn raw data into actionable insights.
-![Typing SVG](https://readme-typing-svg.demolab.com?size=30&duration=4000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hello+I'm+Oumaima;Welcome+to+my+GitHub!;Front-end+Developer;Always+learning+new+things)
 
 
 💡 **What excites me:**
