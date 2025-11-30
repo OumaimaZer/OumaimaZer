@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?size=32&duration=3600&pause=900&color=FFC3E0&center=true&vCenter=true&width=650&lines=Hi+I'm+Oumaima+💗;Welcome+to+my+GitHub+🎀;Always+learning+%26+glowing+✨)
+![Typing SVG](https://readme-typing-svg.demolab.com?size=32&duration=3600&pause=900&color=FFC3E0&center=true&vCenter=true&width=650&lines=Hi+I'm+Oumaima+💗;Welcome+to+my+GitHub+🎀;Always+learning+new+things+✨)
 <img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="150">
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png" width="80%">
